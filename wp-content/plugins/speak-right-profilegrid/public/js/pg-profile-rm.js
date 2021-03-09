@@ -1,0 +1,1 @@
+!function(r){"use strict";var t=r("#pg_rm_registration_tab a").attr("href");r("#pg_rm_registration_tab a").attr("href",t+"#pg_rm_registration_tab")}(jQuery);

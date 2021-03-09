@@ -1,0 +1,9 @@
+{
+    "version" : "0.1.3",
+    "name":"pauple/upgrader",
+    "description":"Upgrader Module of Pauple Pugins",
+    "type": "pauple-library",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
